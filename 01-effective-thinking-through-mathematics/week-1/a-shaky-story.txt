@@ -1,0 +1,33 @@
+Prompt: Solve the Simpler Shaky Story puzzle. Also, explain why the incorrect answers to the number of hands Stacy shook would be impossible. Think carefully, because you will be seeing insights and patterns that will help you to solve the more challenging Shaky Story puzzle later.
+
+Response: Stacy shook one hand. 
+
+Three respondents are questioned by Sam. Let Pn -> x denote “Person n shook hands with x attendees”.
+
+We have that:
+P1 -> 0
+P2 -> 1
+P3 -> 2
+
+One respondent (P1) shook no one’s hand. So P3 and P1 did not shake hands. 
+
+Since P3 -> 2, P3 shook hands with everyone except P1. Thus P1 and P3 must be married. 
+
+Since Sam is the questioner, Sam is neither P1 nor P3. And since Sam and Stacey are married, neither is she P1 or P3.
+
+So Stacey must be P2. 
+
+===
+
+Prompt: Solve the Three-Couple Shaky Story puzzle. Also, see whether you can use that experience to solve the original Shaky Story puzzle. Please do not post the answer to the whole question, but do tell us whether you have solved it and describe whether the insight you gained from the simplest case was helpful.
+
+Response: The insight from the previous case provides a starting point for cases of arbitrary length n:
+
+    - Pn shakes hands with everyone except P1; and 
+    - Pn is spouse with P1.
+
+===
+
+Prompt: To attack this difficult Shaky Story puzzle, we raised questions repeatedly. These questions were helpful in that they allowed us to focus our thinking on questions that evoked the key insights that led to the solution of the original question. So please describe why the Shaky Story invited you to raise different questions rather than immediately working on the original Shaky Story. 
+
+Response: There was no immediately obvious approach to solving the problem. Thus breaking it into smaller components and examining it from various angles provides insights that weren’t obvious at first glance. 
