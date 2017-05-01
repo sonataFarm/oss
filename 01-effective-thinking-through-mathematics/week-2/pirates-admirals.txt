@@ -1,0 +1,15 @@
+Prompt: Please join in a discussion of the Pirates and Admirals puzzle!
+
+Do not just give us the answer - instead, talk to us about how you are thinking about the problem.
+
+-What techniques did you use?
+-Where did you get stuck?
+-What interesting observations did you make?
+
+Response: 
+
+- I kept track of all relevant information using a simple step diagram: location of pirates, admirals and boat on either side of the river. A few branches on this diagram eventually generated a solution. 
+
+- I got stuck trying to apply the logic of the problem to arrive at a general solution. In this case, it was more helpful to simply run through a step diagram via trial and error. 
+
+- At first I was keeping track of individual admirals and pirates via subscripts (i.e. A1, A2, A3). Eventually I realized this was unnecessary information. In solving future problems I’d try to boil the information down to the most atomic form possible. 
